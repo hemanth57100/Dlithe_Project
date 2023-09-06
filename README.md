@@ -14,3 +14,11 @@
 
 <h2>Flowchart</h2>
 <img src="https://github.com/hemanth57100/Dlithe_Project/blob/main/FlowChart.png"></img>
+<h2>Start menu</h2>
+<img src="https://github.com/hemanth57100/Dlithe_Project/blob/main/Images1.png"></img>
+<h2>Day mode</h2>
+<img src="https://github.com/hemanth57100/Dlithe_Project/blob/main/Images3.png"></img>
+<h2>Night mode</h2>
+<img src="https://github.com/hemanth57100/Dlithe_Project/blob/main/Images4.png"></img>
+<h2>Loss</h2>
+<img src="https://github.com/hemanth57100/Dlithe_Project/blob/main/Images2.png"></img>
