@@ -1,18 +1,16 @@
-# Chrome Dinosaur
-#### Google Chrome dinosaur game using Ncurses in C (T-Rex)
+<h1>Chrome's Dino Game</h1>
+<p>The Dinosaur Game (also known as the Chrome Dino) is a browser game developed by Google and built into the Google Chrome web browser. The player guides a pixelated Tyrannosaurus rex across a side-scrolling landscape, avoiding obstacles to achieve a higher score.</p>
 
-You can jump using 'Space' Key, and you can fire when Prize was equal to 1 using 'k' Key.
+<h2>Features</h2>
+<p>The game provides following features:</p>
+<ul>
+  <li><strong>Entry:</strong> User has to enter his/her name and sir name. Highest score is saved in the name given by the user if record is broken.</li>
+  <li><strong>Game starts:</strong> There will be 2 modes day and night.</li>
+  <li><strong>Obstacles:</strong>User have press "space" to jump dinosaurus on the cactus. .</li>
+  <li><strong>Game over:</strong>"LOSS" will be displayed. By clicking "q" and "r" user can quit or restart the game respectively.</li>
+</ul>
+<h2>Mind Map</h2>
+<img src="https://github.com/hemanth57100/Dlithe_Project/blob/main/Mind%20Map.png"></img>
 
-##### To compile and run:
-
-(Make sure you have Ncurses library installed!)
-
-```shell
-gcc main.c -lncurses -o main.out
-./main.out
-```
-
-![Login Screen](Images1.png)
-![Day Mode](Images3.png)
-![Night Mode](Images4.png)
-![End Screen](Images4.png)
+<h2>Flowchart</h2>
+<img src="https://github.com/hemanth57100/Dlithe_Project/blob/main/FlowChart.png"></img>
